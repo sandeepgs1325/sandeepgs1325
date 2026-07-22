@@ -39,22 +39,20 @@ Rajeev Institute of Technology, Hassan
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepgs&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgs&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=sandeepgs&theme=tokyonight)
 ---
 
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sandeep-gs-b2122732a
-* 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* 💻 GitHub: https://github.com/[sandeepgs1325]
 
 ---
 
