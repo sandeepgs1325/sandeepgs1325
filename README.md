@@ -78,7 +78,7 @@ Final Year Student
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=sandeepgs1325&theme=tokyonight"/>
 
 </p>
 
