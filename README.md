@@ -30,9 +30,9 @@ Rajeev Institute of Technology, Hassan 🎓
 
 ## 🎓 Education
 
-**Bachelor of Engineering (B.E.)**  
-Computer Science and Engineering  
-Rajeev Institute of Technology, Hassan  
+<b>Bachelor of Engineering (B.E.)</b><br>
+Computer Science and Engineering<br>
+Rajeev Institute of Technology, Hassan<br>
 Final Year Student
 
 ---
@@ -80,6 +80,5 @@ Final Year Student
 
 ---
 
-⭐ Thanks for visiting my profile!op improving."
 
 ⭐ Thanks for visiting my profile!
