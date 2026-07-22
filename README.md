@@ -37,7 +37,7 @@ Final Year Student
 
 ---
 
-<h2 align="center">💻 Tech Stack & Skills</h2>
+##💻 Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
