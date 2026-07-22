@@ -37,15 +37,25 @@ Rajeev Institute of Technology, Hassan
 
 ---
 
-## 📈 GitHub Stats
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="180" style="border-radius:50%;" alt="Sandeep"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Sandeep</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  Final Year B.E Computer Science Engineering Student  
+  <br>
+  Rajeev Institute of Technology, Hassan
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
