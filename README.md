@@ -20,7 +20,7 @@ Rajeev Institute of Technology, Hassan 🎓
 
 💻 I am passionate about software development, problem solving, and learning new technologies.
 
-🌱 Currently improving my skills in:
+🌱  Currently improving my skills in:
 - Data Structures & Algorithms
 - Full Stack Development
 - Backend Development
@@ -62,25 +62,6 @@ Final Year Student
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sandeepgs1325&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgs1325&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sandeepgs1325&theme=tokyonight"/>
-
-</p>
 
 ---
 
