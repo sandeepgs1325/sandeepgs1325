@@ -38,11 +38,8 @@ Final Year Student
 ---
 
 ## 💻 Tech Stack & Skills
-
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" width="250"/>
 </p>
 
 ---
