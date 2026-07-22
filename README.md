@@ -20,7 +20,7 @@ Rajeev Institute of Technology, Hassan 🎓
 
 💻 I am passionate about software development, problem solving, and learning new technologies.
 
-🌱  Currently improving my skills in:
+<h2>🌱  Currently improving my skills in:</h2>
 - Data Structures & Algorithms
 - Full Stack Development
 - Backend Development
