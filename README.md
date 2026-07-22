@@ -35,6 +35,7 @@ Computer Science and Engineering<br>
 Rajeev Institute of Technology, Hassan<br>
 Final Year Student
 </p>
+
 ---
 
 ## 💻 Tech Stack & Skills
@@ -81,4 +82,4 @@ Final Year Student
 ---
 
 
-⭐ Thanks for visiting my profile!
+<p align="center">⭐ Thanks for visiting my profile!</p>
