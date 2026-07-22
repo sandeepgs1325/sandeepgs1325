@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Sandeep 👋
 
-<!--
-**sandeepgs1325/sandeepgs1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 I'm **Sandeep**, a Final Year **B.E. Computer Science and Engineering** student at **Rajeev Institute of Technology, Hassan**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm passionate about software development, problem-solving, and building real-world applications. I enjoy learning new technologies and continuously improving my programming skills.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.)**
+**Computer Science and Engineering**
+Rajeev Institute of Technology, Hassan
+**Final Year Student**
+
+---
+
+## 🛠️ Skills
+
+* Programming: C, C++, Java, Python
+* Web Development: HTML, CSS, JavaScript
+* Database: MySQL
+* Version Control: Git & GitHub
+* Learning: React, Node.js, Data Structures & Algorithms
+
+---
+
+## 🌱 Currently Learning
+
+* Full Stack Web Development
+* Data Structures & Algorithms
+* React.js
+* Backend Development
+* Cloud Computing
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sandeep-gs-b2122732a
+* 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+## 💡 Quote
+
+> "Keep learning, keep building, and never stop improving."
+
+⭐ Thanks for visiting my profile!
