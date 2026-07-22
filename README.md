@@ -29,12 +29,12 @@ Rajeev Institute of Technology, Hassan 🎓
 ---
 
 ## 🎓 Education
-
+<p align="center">
 <b>Bachelor of Engineering (B.E.)</b><br>
 Computer Science and Engineering<br>
 Rajeev Institute of Technology, Hassan<br>
 Final Year Student
-
+</p>
 ---
 
 ## 💻 Tech Stack & Skills
@@ -66,7 +66,7 @@ Final Year Student
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sandeep-gs-b2122732a">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
