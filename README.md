@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sandeep
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/sandeepgs1325.png" width="180" style="border-radius:50%;" />
 </p>
 
 <h3 align="center">
