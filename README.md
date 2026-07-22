@@ -37,19 +37,6 @@ Rajeev Institute of Technology, Hassan
 
 ---
 
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="180" style="border-radius:50%;" alt="Sandeep"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Sandeep</h1>
-
-<p align="center">
-  Final Year B.E Computer Science Engineering Student  
-  <br>
-  Rajeev Institute of Technology, Hassan
-</p>
-
----
 
 ## 📊 GitHub Stats
 
